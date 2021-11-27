@@ -1,2 +1,2 @@
 # Java Practise
-Java Basic Practice Questions on Arrays, Strings, Mathematics, Patterns and Searching Sorting Algorithms are Solved Here !!!
+#### Java basic practice questions on Arrays, Strings, Mathematics, Patterns, Collections and Searching & Sorting algorithms.
